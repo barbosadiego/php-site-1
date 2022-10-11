@@ -67,6 +67,100 @@
         </div>
       </div>
     </div>
+
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="about-page reviews">
+
+    <div class="swiper reviews-slider">
+
+      <div class="swiper-wrapper">
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora illum fugiat ipsum iste impedit vitae? Nobis dolor omnis, laborum quaerat voluptatem dolores mollitia, sapiente alias dolore itaque tempore ratione vero.</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-1.png" alt="">
+        </div>
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque veritatis at reprehenderit. Exercitationem, iusto quibusdam quod architecto distinctio quae, deleniti asperiores nemo qui repellat veniam, dignissimos amet suscipit non molestiae eaque harum odio itaque excepturi. Cupiditate dolore ipsa consectetur rem!</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-2.png" alt="">
+        </div>
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita natus totam animi ut maxime dolores consectetur aspernatur impedit, debitis voluptatem eveniet praesentium quis iste sequi!</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-3.png" alt="">
+        </div>
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores unde laudantium consequuntur distinctio minus voluptatum possimus nisi inventore quam iusto nihil, veniam esse et eum voluptate? Unde itaque eaque quae tenetur tempora sunt totam sapiente?</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-4.png" alt="">
+        </div>
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio iure cumque earum nisi suscipit pariatur recusandae possimus at enim doloremque quam reiciendis reprehenderit quis impedit, ducimus quod eius id qui corporis magni. Eos rerum rem fuga enim quidem, possimus, odio iusto porro repellendus ipsam sit!</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-5.png" alt="">
+        </div>
+
+        <div class="swiper-slide slide">
+          <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+          </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam sunt quod, qui fuga reprehenderit praesentium. Facilis non earum repudiandae sint corporis suscipit quod molestias vero.</p>
+          <h3>john deo</h3>
+          <span>traveler</span>
+          <img src="images/pic-6.png" alt="">
+        </div>
+
+      </div>
+
+    </div>
+
   </section>
 
   <!-- FOOTER -->
