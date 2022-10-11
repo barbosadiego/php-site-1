@@ -133,6 +133,54 @@
 
   </section>
 
+  <!-- PACKAGES -->
+  <section class="packages">
+
+    <h1 class="heading-title">our packages</h1>
+
+    <div class="box-container">
+
+      <div class="box">
+        <div class="image">
+          <img src="images/img-1.jpg" alt="">
+        </div>
+        <div class="content">
+          <h3>adventure & tour</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+          <a href="book.php" class="btn">boor now</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="image">
+          <img src="images/img-2.jpg" alt="">
+        </div>
+        <div class="content">
+          <h3>adventure & tour</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+          <a href="book.php" class="btn">boor now</a>
+        </div>
+      </div>
+
+      <div class="box">
+        <div class="image">
+          <img src="images/img-3.jpg" alt="">
+        </div>
+        <div class="content">
+          <h3>adventure & tour</h3>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+          <a href="book.php" class="btn">boor now</a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="load-more">
+      <a href="package.php" class="btn">load more</a>
+    </div>
+
+  </section>
+
   <!-- FOOTER -->
   <section class="footer">
     <div class="box-container">
@@ -175,6 +223,7 @@
       <p>created by <span>mr. web design</span> | all rights reserved.</p>
     </div>
   </section>
+
   <!-- swiper js file -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
   <!-- custon js file -->
