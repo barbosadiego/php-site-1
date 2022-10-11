@@ -119,7 +119,7 @@
   </section>
 
   <!-- ABOUT -->
-  <section class="about">
+  <section class="home-about">
 
     <div class="image">
       <img src="images/about-img.jpg" alt="">
