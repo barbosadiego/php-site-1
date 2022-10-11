@@ -37,6 +37,46 @@
     <div class="fas fa-bars" id="menu-btn"></div>
   </section>
 
+  <!-- HOME -->
+  <section class="home">
+
+    <div class="swiper home-slider">
+
+      <div class="swiper-wrapper">
+
+        <div class="slide swiper-slide" style="background: url(images/home-slide-1.jpg) no-repeat;">
+          <div class="content">
+            <span>explore, discover, travel</span>
+            <h3>travel arround the world</h3>
+            <a href="package.php" class="btn">discover more</a>
+          </div>
+        </div>
+
+        <div class="slide swiper-slide" style="background: url(images/home-slide-2.jpg) no-repeat;">
+          <div class="content">
+            <span>explore, discover, travel</span>
+            <h3>discover the new places</h3>
+            <a href="package.php" class="btn">discover more</a>
+          </div>
+        </div>
+
+        <div class="slide swiper-slide" style="background: url(images/home-slide-3.jpg) no-repeat;">
+          <div class="content">
+            <span>explore, discover, travel</span>
+            <h3>make your tour worthwhile</h3>
+            <a href="package.php" class="btn">discover more</a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
+
+    </div>
+
+  </section>
+
   <!-- SERVICES -->
   <section class="services">
 
@@ -73,7 +113,7 @@
         <img src="images/icon-6.png" alt="">
         <h3>camping</h3>
       </div>
-      
+
     </div>
 
   </section>
@@ -81,7 +121,7 @@
   <!-- FOOTER -->
   <section class="footer">
     <div class="box-container">
-      
+
       <div class="box">
         <h3>quick links</h3>
         <a href="index.php"> <i class="fas fa-angle-right"></i> home</a>
@@ -116,7 +156,9 @@
 
     </div>
 
-    <div class="credit"><p>created by <span>mr. web design</span> | all rights reserved.</p></div>
+    <div class="credit">
+      <p>created by <span>mr. web design</span> | all rights reserved.</p>
+    </div>
   </section>
   <!-- swiper js file -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
