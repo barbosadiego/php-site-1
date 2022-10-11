@@ -118,6 +118,21 @@
 
   </section>
 
+  <!-- ABOUT -->
+  <section class="about">
+
+    <div class="image">
+      <img src="images/about-img.jpg" alt="">
+    </div>
+
+    <div class="content">
+      <h3>about us</h3>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam totam quas aspernatur rerum voluptatem reiciendis eligendi dolorum explicabo molestias soluta dicta quasi accusantium adipisci, perspiciatis hic fugiat nostrum velit error.</p>
+      <a href="about.php" class="btn">read more</a>
+    </div>
+
+  </section>
+
   <!-- FOOTER -->
   <section class="footer">
     <div class="box-container">

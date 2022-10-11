@@ -50,6 +50,11 @@ section {
   }
 }
 
+img{
+  max-width: 100%;
+  display: block;
+}
+
 .btn{
   display: inline-block;
   background: var(--black);
@@ -206,12 +211,43 @@ section {
 
 .services .box-container .box img{
   height: 7rem;
+  margin: 0 auto;
 }
 
 .services .box-container .box h3{
   color: var(--white);
   font-size: 1.7rem;
   padding-top: 1rem;
+}
+
+/* ABOUT */
+
+.about{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about .image{
+  flex: 1 1 41rem;
+}
+
+.about .content{
+  flex: 1 1 41rem;
+  padding: 2rem;
+  background: var(--light-bg);
+}
+
+.about .content h3{
+  font-size: 3rem;
+  color: var(--black);
+}
+
+.about .content p{
+  font-size: 1.5rem;
+  padding: 1rem 0;
+  line-height: 2;
+  color: var(--black);
 }
 
 /* FOOTER */
