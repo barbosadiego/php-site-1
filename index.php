@@ -181,6 +181,15 @@
 
   </section>
 
+  <!-- OFFER -->
+  <section class="offer">
+    <div class="content">
+      <h3>upto 50% off</h3>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum velit error eligendi! Suscipit, voluptas commodi illum dolor harum dolorem quaerat ex! Temporibus excepturi voluptas tenetur id, neque rem pariatur veritatis.</p>
+      <a href="book.php" class="btn">book now</a>
+    </div>
+  </section>
+
   <!-- FOOTER -->
   <section class="footer">
     <div class="box-container">
