@@ -21,6 +21,8 @@ const swiper = new Swiper('.home-slider', {
   },
 })
 
+// Reviews slide --------------------------------
+
 const swiper2 = new Swiper('.reviews-slider', {
   loop: true,
   spaceBetween: 20,
@@ -38,3 +40,24 @@ const swiper2 = new Swiper('.reviews-slider', {
     },
   },
 })
+
+// Packages boxes --------------------------------
+
+const loadMoreBtn = document.querySelector('.packages .load-more .btn');
+if (loadMoreBtn){
+  let currentItem = 6;
+  
+  loadMoreBtn.addEventListener('click', () => {
+    let boxes = [...document.querySelectorAll('.packages .box-container .box')];
+  
+    for (let i = currentItem; i < currentItem + 3; i++){
+      boxes[i].style.display = 'inline-block';
+    };
+  
+    currentItem += 3;
+  
+    if (currentItem >= boxes.length){
+      loadMoreBtn.style.display = 'none';
+    }
+  });
+}

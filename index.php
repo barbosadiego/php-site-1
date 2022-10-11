@@ -134,7 +134,7 @@
   </section>
 
   <!-- PACKAGES -->
-  <section class="packages">
+  <section class="home-packages">
 
     <h1 class="heading-title">our packages</h1>
 
