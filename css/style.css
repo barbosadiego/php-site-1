@@ -563,15 +563,6 @@ img {
   margin-top: 2rem;
 }
 
-
-
-
-
-
-
-
-
-
 /* FOOTER */
 
 .footer {
@@ -643,6 +634,10 @@ img {
 }
 
 @media (max-width: 768px) {
+  .heading h1{
+    font-size: 4rem;
+  }
+  
   .header .navbar {
     position: absolute;
     top: 99%;

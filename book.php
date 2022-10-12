@@ -38,7 +38,7 @@
   </section>
 
   <div class="heading" style="background: url(images/header-bg-3.png) no-repeat;">
-    <h1>book</h1>
+    <h1>book now</h1>
   </div>
 
   <!-- BOOKING -->
@@ -46,7 +46,7 @@
 
     <h1 class="heading-title">book your trip!</h1>
 
-    <form action="book_form.php" class="book-form">
+    <form action="book_form.php" method="POST" class="book-form">
 
       <div class="flex">
 
