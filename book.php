@@ -41,6 +41,56 @@
     <h1>book</h1>
   </div>
 
+  <!-- BOOKING -->
+  <section class="booking">
+
+    <h1 class="heading-title">book your trip!</h1>
+
+    <form action="book_form.php" class="book-form">
+
+      <div class="flex">
+
+        <div class="input-box">
+          <span>name:</span>
+          <input type="text" placeholder="enter your name" name="name">
+        </div>
+        <div class="input-box">
+          <span>email:</span>
+          <input type="email" placeholder="enter your email" name="email">
+        </div>
+        <div class="input-box">
+          <span>phone:</span>
+          <input type="number" placeholder="enter your phone" name="phone">
+        </div>
+        <div class="input-box">
+          <span>address:</span>
+          <input type="text" placeholder="enter your address" name="address">
+        </div>
+        <div class="input-box">
+          <span>where to:</span>
+          <input type="text" placeholder="place you want to visit" name="location">
+        </div>
+        <div class="input-box">
+          <span>how many:</span>
+          <input type="number" placeholder="number of guests" name="guests">
+        </div>
+        <div class="input-box">
+          <span>arrivals:</span>
+          <input type="date" name="arrivals">
+        </div>
+        <div class="input-box">
+          <span>leaving:</span>
+          <input type="date" name="leaving">
+        </div>
+
+      </div>
+
+      <input type="submit" value="submit" class="btn" name="send">
+
+    </form>
+
+  </section>
+
   <!-- FOOTER -->
   <section class="footer">
     <div class="box-container">
@@ -81,6 +131,7 @@
 
     <div class="credit"><p>created by <span>mr. web design</span> | all rights reserved.</p></div>
   </section>
+
   <!-- swiper js file -->
   <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
   <!-- custon js file -->
